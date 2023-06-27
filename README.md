@@ -21,5 +21,5 @@ docker build -t dotnet .
 ```
 
 ```bash
-docker run dotnet
+docker run -p 5124:80 dotnet
 ```

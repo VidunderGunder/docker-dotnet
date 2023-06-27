@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Library/Code/docker/dotnet/MyMicroservice.csproj",
+      "projectUniqueName": "/Library/Code/docker/compose/docker-dotnet/MyMicroservice.csproj",
       "projectName": "MyMicroservice",
-      "projectPath": "/Library/Code/docker/dotnet/MyMicroservice.csproj",
+      "projectPath": "/Library/Code/docker/compose/docker-dotnet/MyMicroservice.csproj",
       "packagesPath": "/Users/kristian/.nuget/packages/",
-      "outputPath": "/Library/Code/docker/dotnet/obj/",
+      "outputPath": "/Library/Code/docker/compose/docker-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kristian/.nuget/NuGet/NuGet.Config"

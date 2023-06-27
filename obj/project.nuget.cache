@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ywF/9V9bKlmhSjxdwwU8DRKEZ9cssogmbNvMk0smmTKzHCPVyTCUyJN512VpHFZa19eKMb6mdEB+y2YvBOVKIg==",
+  "dgSpecHash": "Xv+dvdNZHGuXwtDK06/CTpsk1KEM8QgwvHXxlfHegX9C6kRkbR6sE60fvR/pBaGD2V2Ypu69q+sJSqEZMP49Bw==",
   "success": true,
-  "projectFilePath": "/Library/Code/docker/dotnet/MyMicroservice.csproj",
+  "projectFilePath": "/Library/Code/docker/compose/docker-dotnet/MyMicroservice.csproj",
   "expectedPackageFiles": [
     "/Users/kristian/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/kristian/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
