@@ -1,10 +1,10 @@
 # Docker DotNet
 
-Me getting familiar with Docker.
+Me getting familiar with Docker
 
 ## 🚀 Getting Started
 
-Install [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0).
+Install [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ```bash
 dotnet run
