@@ -5,20 +5,20 @@ namespace MyMicroservice.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class DeezController : ControllerBase
+    public class HelloController : ControllerBase
     {
-        private readonly ILogger<DeezController> _logger;
+        private readonly ILogger<HelloController> _logger;
 
-        public DeezController(ILogger<DeezController> logger)
+        public HelloController(ILogger<HelloController> logger)
         {
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetDeez")]
+        [HttpGet(Name = "GetHello")]
         [ProducesResponseType(typeof(string), (int)HttpStatusCode.OK)]
         public String Get()
         {
-            return "DotNet Deez Nuts";
+            return "DotNet says \"Hi!\"";
         }
     }
 }
