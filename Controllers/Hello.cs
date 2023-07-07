@@ -16,7 +16,7 @@ namespace MyMicroservice.Controllers
 
         [HttpGet(Name = "GetHello")]
         [ProducesResponseType(typeof(string), (int)HttpStatusCode.OK)]
-        public String Get()
+        public string Get()
         {
             return "DotNet says \"Hi!\"";
         }
